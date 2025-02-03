@@ -8,7 +8,7 @@ namespace File
     {
         static void Main(string[] args)
         {
-            //Check de path before run code
+            // This should be a user input, but i don`t wanna write this
             string root = @"C:\Users\GB\Desktop\Projetos\C# (Udemy)\File";
             string path = $@"{root}\file.txt";
             string path_out = $@"{root}\out\file2.txt";
