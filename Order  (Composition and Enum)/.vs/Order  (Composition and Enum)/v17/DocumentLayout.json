@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67F0BB0A-552A-435E-B5C4-D6FD5718017A}|Order\\Order.csproj|c:\\users\\gb\\desktop\\projetos\\c# (udemy)\\order  (composition and enum)\\order\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F0BB0A-552A-435E-B5C4-D6FD5718017A}|Order\\Order.csproj|solutionrelative:order\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F0BB0A-552A-435E-B5C4-D6FD5718017A}|Order\\Order.csproj|c:\\users\\gb\\desktop\\projetos\\c# (udemy)\\order  (composition and enum)\\order\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F0BB0A-552A-435E-B5C4-D6FD5718017A}|Order\\Order.csproj|solutionrelative:order\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F0BB0A-552A-435E-B5C4-D6FD5718017A}|Order\\Order.csproj|c:\\users\\gb\\desktop\\projetos\\c# (udemy)\\order  (composition and enum)\\order\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F0BB0A-552A-435E-B5C4-D6FD5718017A}|Order\\Order.csproj|solutionrelative:order\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F0BB0A-552A-435E-B5C4-D6FD5718017A}|Order\\Order.csproj|c:\\users\\gb\\desktop\\projetos\\c# (udemy)\\order  (composition and enum)\\order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F0BB0A-552A-435E-B5C4-D6FD5718017A}|Order\\Order.csproj|solutionrelative:order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F0BB0A-552A-435E-B5C4-D6FD5718017A}|Order\\Order.csproj|c:\\users\\gb\\desktop\\projetos\\c# (udemy)\\order  (composition and enum)\\order\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F0BB0A-552A-435E-B5C4-D6FD5718017A}|Order\\Order.csproj|solutionrelative:order\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F0BB0A-552A-435E-B5C4-D6FD5718017A}|Order\\Order.csproj|c:\\users\\gb\\desktop\\projetos\\c# (udemy)\\order  (composition and enum)\\order\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F0BB0A-552A-435E-B5C4-D6FD5718017A}|Order\\Order.csproj|solutionrelative:order\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\Order\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Order\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\Order\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Order\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T18:44:59.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\Order\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Order\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\Order\\Entities\\Order.cs",
+              "RelativeToolTip": "Order\\Entities\\Order.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwDcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T18:40:25.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\Order\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Order\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\Order\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Order\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T18:38:41.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\Order\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Order\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\Order\\Entities\\Product.cs",
+              "RelativeToolTip": "Order\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T18:02:45.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\Order\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Order\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\Order\\Entities\\Client.cs",
+              "RelativeToolTip": "Order\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:58:57.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\Order\\Program.cs",
+              "RelativeDocumentMoniker": "Order\\Program.cs",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\Order  (Composition and Enum)\\Order\\Program.cs",
+              "RelativeToolTip": "Order\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:56:06.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\bin\Debug\net8.0\SimuladorContaBancaria.exe
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\bin\Debug\net8.0\SimuladorContaBancaria.deps.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\bin\Debug\net8.0\SimuladorContaBancaria.runtimeconfig.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\bin\Debug\net8.0\SimuladorContaBancaria.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\bin\Debug\net8.0\SimuladorContaBancaria.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\obj\Debug\net8.0\SimuladorContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\obj\Debug\net8.0\SimuladorContaBancaria.AssemblyInfoInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\obj\Debug\net8.0\SimuladorContaBancaria.AssemblyInfo.cs
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\obj\Debug\net8.0\SimuladorContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\obj\Debug\net8.0\SimuladorContaBancaria.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\obj\Debug\net8.0\refint\SimuladorContaBancaria.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\obj\Debug\net8.0\SimuladorContaBancaria.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\obj\Debug\net8.0\SimuladorContaBancaria.genruntimeconfig.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\SimuladorContaBancaria\SimuladorContaBancaria\obj\Debug\net8.0\ref\SimuladorContaBancaria.dll

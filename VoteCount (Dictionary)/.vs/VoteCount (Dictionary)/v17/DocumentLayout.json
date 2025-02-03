@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\VoteCount (Dictionary)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E50054BF-4652-4448-8736-6D086644E115}|VoteCount\\VoteCount.csproj|c:\\users\\gb\\desktop\\projetos\\c# (udemy)\\votecount (dictionary)\\votecount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50054BF-4652-4448-8736-6D086644E115}|VoteCount\\VoteCount.csproj|solutionrelative:votecount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\VoteCount (Dictionary)\\VoteCount\\Program.cs",
+              "RelativeDocumentMoniker": "VoteCount\\Program.cs",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\VoteCount (Dictionary)\\VoteCount\\Program.cs",
+              "RelativeToolTip": "VoteCount\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:15:14.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

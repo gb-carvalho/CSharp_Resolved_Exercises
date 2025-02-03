@@ -1,0 +1,14 @@
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\bin\Debug\net8.0\ConversorDeMoeda (Static Class).exe
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\bin\Debug\net8.0\ConversorDeMoeda (Static Class).deps.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\bin\Debug\net8.0\ConversorDeMoeda (Static Class).runtimeconfig.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\bin\Debug\net8.0\ConversorDeMoeda (Static Class).dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\bin\Debug\net8.0\ConversorDeMoeda (Static Class).pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\obj\Debug\net8.0\ConversorDeMoeda (Static Class).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\obj\Debug\net8.0\ConversorDeMoeda (Static Class).AssemblyInfoInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\obj\Debug\net8.0\ConversorDeMoeda (Static Class).AssemblyInfo.cs
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\obj\Debug\net8.0\ConversorDeMoeda (Static Class).csproj.CoreCompileInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\obj\Debug\net8.0\ConversorDeMoeda (Static Class).dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\obj\Debug\net8.0\refint\ConversorDeMoeda (Static Class).dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\obj\Debug\net8.0\ConversorDeMoeda (Static Class).pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\obj\Debug\net8.0\ConversorDeMoeda (Static Class).genruntimeconfig.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\ConversorDeMoeda\ConversorDeMoeda (Static Class)\obj\Debug\net8.0\ref\ConversorDeMoeda (Static Class).dll

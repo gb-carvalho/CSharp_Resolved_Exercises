@@ -1,0 +1,14 @@
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\bin\Debug\net8.0\VoteCount.exe
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\bin\Debug\net8.0\VoteCount.deps.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\bin\Debug\net8.0\VoteCount.runtimeconfig.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\bin\Debug\net8.0\VoteCount.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\bin\Debug\net8.0\VoteCount.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\obj\Debug\net8.0\VoteCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\obj\Debug\net8.0\VoteCount.AssemblyInfoInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\obj\Debug\net8.0\VoteCount.AssemblyInfo.cs
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\obj\Debug\net8.0\VoteCount.csproj.CoreCompileInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\obj\Debug\net8.0\VoteCount.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\obj\Debug\net8.0\refint\VoteCount.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\obj\Debug\net8.0\VoteCount.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\obj\Debug\net8.0\VoteCount.genruntimeconfig.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\VoteCount (Dictionary)\VoteCount\obj\Debug\net8.0\ref\VoteCount.dll

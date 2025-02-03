@@ -1,0 +1,14 @@
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\bin\Debug\net8.0\RegisterEmployees.exe
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\bin\Debug\net8.0\RegisterEmployees.deps.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\bin\Debug\net8.0\RegisterEmployees.runtimeconfig.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\bin\Debug\net8.0\RegisterEmployees.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\bin\Debug\net8.0\RegisterEmployees.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.AssemblyInfoInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.AssemblyInfo.cs
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.csproj.CoreCompileInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\refint\RegisterEmployees.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.genruntimeconfig.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\ref\RegisterEmployees.dll

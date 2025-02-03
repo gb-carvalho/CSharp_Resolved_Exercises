@@ -1,0 +1,14 @@
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\bin\Debug\net8.0\Tax.exe
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\bin\Debug\net8.0\Tax.deps.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\bin\Debug\net8.0\Tax.runtimeconfig.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\bin\Debug\net8.0\Tax.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\bin\Debug\net8.0\Tax.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\obj\Debug\net8.0\Tax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\obj\Debug\net8.0\Tax.AssemblyInfoInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\obj\Debug\net8.0\Tax.AssemblyInfo.cs
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\obj\Debug\net8.0\Tax.csproj.CoreCompileInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\obj\Debug\net8.0\Tax.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\obj\Debug\net8.0\refint\Tax.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\obj\Debug\net8.0\Tax.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\obj\Debug\net8.0\Tax.genruntimeconfig.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Tax (abstract)\Tax\obj\Debug\net8.0\ref\Tax.dll

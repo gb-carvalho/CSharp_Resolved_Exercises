@@ -1,0 +1,14 @@
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\bin\Debug\net8.0\Employee.exe
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\bin\Debug\net8.0\Employee.deps.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\bin\Debug\net8.0\Employee.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\bin\Debug\net8.0\Employee.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\obj\Debug\net8.0\Employee.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\obj\Debug\net8.0\refint\Employee.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\obj\Debug\net8.0\Employee.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Employee (LINQ)\Employee\obj\Debug\net8.0\ref\Employee.dll

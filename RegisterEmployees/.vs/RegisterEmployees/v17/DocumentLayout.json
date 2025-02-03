@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\RegisterEmployees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4482748F-1B2A-4C91-BB5A-D0153DA36C30}|RegisterEmployees\\RegisterEmployees.csproj|c:\\users\\gb\\desktop\\projetos\\c# (udemy)\\registeremployees\\registeremployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4482748F-1B2A-4C91-BB5A-D0153DA36C30}|RegisterEmployees\\RegisterEmployees.csproj|solutionrelative:registeremployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4482748F-1B2A-4C91-BB5A-D0153DA36C30}|RegisterEmployees\\RegisterEmployees.csproj|c:\\users\\gb\\desktop\\projetos\\c# (udemy)\\registeremployees\\registeremployees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4482748F-1B2A-4C91-BB5A-D0153DA36C30}|RegisterEmployees\\RegisterEmployees.csproj|solutionrelative:registeremployees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\RegisterEmployees\\RegisterEmployees\\Employee.cs",
+              "RelativeDocumentMoniker": "RegisterEmployees\\Employee.cs",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\RegisterEmployees\\RegisterEmployees\\Employee.cs",
+              "RelativeToolTip": "RegisterEmployees\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:37:49.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\RegisterEmployees\\RegisterEmployees\\Program.cs",
+              "RelativeDocumentMoniker": "RegisterEmployees\\Program.cs",
+              "ToolTip": "C:\\Users\\GB\\Desktop\\Projetos\\C# (Udemy)\\RegisterEmployees\\RegisterEmployees\\Program.cs",
+              "RelativeToolTip": "RegisterEmployees\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:33:58.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

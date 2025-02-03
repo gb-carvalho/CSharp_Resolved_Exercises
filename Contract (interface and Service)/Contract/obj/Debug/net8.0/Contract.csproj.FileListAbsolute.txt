@@ -1,0 +1,28 @@
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\bin\Debug\net8.0\Contract.exe
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\bin\Debug\net8.0\Contract.deps.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\bin\Debug\net8.0\Contract.runtimeconfig.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\bin\Debug\net8.0\Contract.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\bin\Debug\net8.0\Contract.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\obj\Debug\net8.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\obj\Debug\net8.0\Contract.AssemblyInfoInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\obj\Debug\net8.0\Contract.AssemblyInfo.cs
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\obj\Debug\net8.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\obj\Debug\net8.0\Contract.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\obj\Debug\net8.0\refint\Contract.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\obj\Debug\net8.0\Contract.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\obj\Debug\net8.0\Contract.genruntimeconfig.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface)\Contract\obj\Debug\net8.0\ref\Contract.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\bin\Debug\net8.0\Contract.exe
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\bin\Debug\net8.0\Contract.deps.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\bin\Debug\net8.0\Contract.runtimeconfig.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\bin\Debug\net8.0\Contract.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\bin\Debug\net8.0\Contract.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\obj\Debug\net8.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\obj\Debug\net8.0\Contract.AssemblyInfoInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\obj\Debug\net8.0\Contract.AssemblyInfo.cs
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\obj\Debug\net8.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\obj\Debug\net8.0\Contract.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\obj\Debug\net8.0\refint\Contract.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\obj\Debug\net8.0\Contract.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\obj\Debug\net8.0\Contract.genruntimeconfig.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\Contract (interface and Service)\Contract\obj\Debug\net8.0\ref\Contract.dll

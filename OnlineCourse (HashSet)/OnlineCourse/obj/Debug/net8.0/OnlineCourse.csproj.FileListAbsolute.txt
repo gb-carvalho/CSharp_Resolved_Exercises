@@ -1,0 +1,14 @@
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\bin\Debug\net8.0\OnlineCourse.exe
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\bin\Debug\net8.0\OnlineCourse.deps.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\bin\Debug\net8.0\OnlineCourse.runtimeconfig.json
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\bin\Debug\net8.0\OnlineCourse.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\bin\Debug\net8.0\OnlineCourse.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\obj\Debug\net8.0\OnlineCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\obj\Debug\net8.0\OnlineCourse.AssemblyInfoInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\obj\Debug\net8.0\OnlineCourse.AssemblyInfo.cs
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\obj\Debug\net8.0\OnlineCourse.csproj.CoreCompileInputs.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\obj\Debug\net8.0\OnlineCourse.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\obj\Debug\net8.0\refint\OnlineCourse.dll
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\obj\Debug\net8.0\OnlineCourse.pdb
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\obj\Debug\net8.0\OnlineCourse.genruntimeconfig.cache
+C:\Users\GB\Desktop\Projetos\C# (Udemy)\OnlineCourse (HashSet)\OnlineCourse\obj\Debug\net8.0\ref\OnlineCourse.dll
